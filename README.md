@@ -23,4 +23,4 @@ Using the system is as simple as using the personal computer. Since end user com
 
 
 ## ScreenShots Of Project
-![] (C:\Users\HP\workspace\HospitalManagement\src\ScreenShots\Screenshot1)
+![] (C:\Users\HP\workspace\HospitalManagement\src\ScreenShots\Screenshot1.png)
