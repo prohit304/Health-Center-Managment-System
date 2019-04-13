@@ -23,4 +23,4 @@ Using the system is as simple as using the personal computer. Since end user com
 
 
 ## ScreenShots Of Project
-![] (ScreenShots\Screenshot1.png)
+<img src="ScreenShots\Screenshot1.png">
