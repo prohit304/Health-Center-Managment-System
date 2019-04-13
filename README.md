@@ -22,5 +22,5 @@ Every sort of task is performed by the system, such as registering different typ
 Using the system is as simple as using the personal computer. Since end user computing is developing in our country, It is beneficial to both Health center  and the patients. Every step is clearly defined and help is provided through out the application to the user. Even the exceptions are handled well to avoid confusion
 
 
-##ScreenShots Of Project
+## ScreenShots Of Project
 ![] (C:\Users\HP\workspace\HospitalManagement\src\ScreenShots\Screenshot1)
