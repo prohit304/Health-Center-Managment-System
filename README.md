@@ -7,15 +7,15 @@ Every sort of task is performed by the system, such as registering different typ
 ## Prerequisites
 
 ### Software Requirement
-Platform		-	Windows 7/Unix/Solaris or above.
-Software		-	 JSDK 5.0 or above, My.sql.
+* Platform		-	Windows 7/Unix/Solaris or above.
+* Software		-	 JSDK 5.0 or above, My.sql.
 
 ## Hardware Requirement
-Processor		-	Intel celeron class Processor with 2.0 GHz
-RAM			-	256 MB
-Hard Disk		-	40 GB
-Keyboard		-	101 keys
-Mouse		-	Any pointing device
+* Processor		-	Intel celeron class Processor with 2.0 GHz
+* RAM			-	256 MB
+* Hard Disk		-	40 GB
+* Keyboard		-	101 keys
+* Mouse		-	Any pointing device
 
 ## How to use the system ?
 
