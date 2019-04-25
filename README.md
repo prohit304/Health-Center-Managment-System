@@ -22,8 +22,25 @@ Every sort of task is performed by the system, such as registering different typ
 Using the system is as simple as using the personal computer. Since end user computing is developing in our country, It is beneficial to both Health center  and the patients. Every step is clearly defined and help is provided through out the application to the user. Even the exceptions are handled well to avoid confusion
 
 ## Screenshots Of The Project
-*Starting Page
+
 ![image](https://user-images.githubusercontent.com/40255346/56730613-0473a380-6776-11e9-894e-207dd03e266f.png)
+
+![image](https://user-images.githubusercontent.com/40255346/56730994-00945100-6777-11e9-825a-7623372ebaff.png)
+
+![image](https://user-images.githubusercontent.com/40255346/56731013-0be77c80-6777-11e9-81ef-849939015703.png)
+
+![image](https://user-images.githubusercontent.com/40255346/56731030-1b66c580-6777-11e9-8b9a-f1da48fc1c68.png)
+
+![image](https://user-images.githubusercontent.com/40255346/56731055-2d486880-6777-11e9-9c95-c268df4c89f4.png)
+
+![image](https://user-images.githubusercontent.com/40255346/56731071-3b968480-6777-11e9-8c68-48600a34c20e.png)
+
+![image](https://user-images.githubusercontent.com/40255346/56731100-43eebf80-6777-11e9-9020-6a45b4e38c7e.png)
+
+
+ 
+       
+
 
 
 
